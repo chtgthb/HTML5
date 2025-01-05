@@ -14,7 +14,6 @@ This project is a comprehensive learning kit designed to teach the basics of HTM
 - [Features](#features)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
-- [Screenshots](#screenshots)
 - [Future Work](#future-work)
 - [Contributors](#contributors)
 - [License](#license)
@@ -58,15 +57,6 @@ The **HTML Learning Kit** covers essential topics such as:
 - A modern web browser (Chrome, Firefox, Edge, etc.)
 - Text editor (Visual Studio Code, Sublime Text, Notepad++)
 - Basic understanding of HTML for further customization
-
-## Screenshots
-Here is a preview of the project:
-
-### Form Page (form.html)
-![Submit Button](resimler/submit.png)
-
-### Table Page (tablo.html)
-![Arrow Button](resimler/submit2png.png)
 
 ## Future Work
 - Add CSS for enhanced styling
